@@ -1,6 +1,6 @@
 🚰 **Water Potability Classification**
 
-Developed during my Data Science internship at Technex IIT Varanasi, this project predicts water potability using machine learning. I preprocessed and analyzing data and then built a machine learning model which is able to classify wether a water sample is drinkable or not based on its components. The selected Random Forest Model has outstanding performance:
+Developed during my Data Science internship at Technex IIT Varanasi, this project a machine learning model is built which predicts if a water sample is drinkable (potable) or not based on its components. I preprocessed and analyzed the data and then built a machine learning model. The selected Random Forest Model has outstanding performance:
 
 [ Accuracy: 78 % ;
 Precision: 70 % ;
