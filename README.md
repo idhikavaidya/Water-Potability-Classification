@@ -1,6 +1,6 @@
 🚰 **Water Quality Analysis and Prediction**
 
-Developed during my Data Science internship at Technex IIT Varanasi, this project involved building a machine learning model to predict whether a water sample is drinkable (potable) based on its components. I preprocessed and analyzed the data and then built a machine learning model. The selected Random Forest Model has outstanding performance:
+Developed during my Data Science internship at Technex IIT Varanasi, this project involved building a machine learning model to predict whether a water sample is drinkable (potable) based on its components. I preprocessed and analyzed the data and then built a machine learning model for binary classification. The selected Random Forest Model has outstanding performance:
 
 [ Accuracy: 78 % ;
 Precision: 70 % ;
